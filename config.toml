@@ -42,6 +42,10 @@ paginate = 8
     icon = "youtube"
     name = "Youtube"
     url = "https://www.youtube.com/channel/UCNzfwOf__8eKqwgAEYnH9Cw"
+  [[params.social]]
+	icon = "instagram"
+	name = "Instagram"
+	url = "https://www.instagram.com/dhruv_bhirud/"
 
   # Default theme
   #[params.style]
