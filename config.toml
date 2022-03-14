@@ -28,7 +28,7 @@ paginate = 8
   author = "Dhruv Bhirud"
   avatar = "img/profile.jpg"
   favicon = "img/favicon.png"
-  description = "Example......."
+  description = "Computer Engineering Student"
   menu_item_separator = " - "
   [[params.social]]
     icon = "github"
